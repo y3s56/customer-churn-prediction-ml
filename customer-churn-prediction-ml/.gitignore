@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.env
+.venv/
+venv/
+outputs/
+WA_Fn-UseC_-Telco-Customer-Churn.csv
+.ipynb_checkpoints/

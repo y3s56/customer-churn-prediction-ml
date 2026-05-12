@@ -1,0 +1,13 @@
+Feature,Importance
+Contract_One year,0.21150143
+Contract_Two year,0.19637954
+InternetService_Fiber optic,0.18251519
+InternetService_No,0.06973071
+tenure,0.060804866
+PaymentMethod_Electronic check,0.049576245
+StreamingMovies_Yes,0.031849273
+OnlineSecurity_Yes,0.03158613
+PaperlessBilling_Yes,0.027839534
+TechSupport_Yes,0.016505094
+StreamingTV_Yes,0.015281267
+MultipleLines_Yes,0.013004206
