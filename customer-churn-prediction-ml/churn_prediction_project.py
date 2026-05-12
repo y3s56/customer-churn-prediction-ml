@@ -266,7 +266,7 @@ def generate_evaluation_figures(X, X_test_scaled, y_test, models, results_df):
 
     nn = MLPClassifier(
         hidden_layer_sizes=(64, 32),
-        max_iter=1,
+        max_iter=500,
         warm_start=True,
         random_state=42
     )
